@@ -1,0 +1,7 @@
+5
+5
+1;HYG;LKJ;Igarape;Esmeralda;24/5/2024;13:00;15:00;R$112,90
+2;RDE;HGT;Rio de Janeiro;Sao Paulo;11/5/2024;09:50;14:30;R$682,90
+3;GTF;KUH;Igarape;Rio de Janeiro;30/8/2024;12:35;18:50;R$1.200,90
+4;ERT;POR;Fortaleza;Manaus;13/1/2024;02:25;04:45;R$1.123,90
+5;VFE;LMN;Nova Iguacu;Uberlandia;24/10/2024;16:15;23:30;R$985,90
