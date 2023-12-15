@@ -6,8 +6,8 @@ Autor: Maria Souza | Matricula: 720135
 Biblioteca com as funcoes:
 listagem, cadastro, pesquisa, edicao e exclusa de passagens.
 */
-#include "Funcoes.h" 
-#include <stdio.h>  //para entradas e saidas
+#include "Funcoes.h"
+#include <stdio.h> //para entradas e saidas
 
 int main()
 {
@@ -49,9 +49,8 @@ int main()
         default:
             printf("Opcao invalida. Tente novamente.\n");
         }
-
+        salvarPassagens();  //nova alteracao
     } while (opcao != 6);
 
-    salvarPassagens();
     return 0;
 }
